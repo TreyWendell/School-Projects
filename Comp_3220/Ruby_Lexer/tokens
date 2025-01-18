@@ -1,0 +1,33 @@
+variable x
+whitespace  
+operator =
+whitespace  
+integer 3
+whitespace 
+variable y
+whitespace  
+operator =
+whitespace  
+integer 5
+whitespace 
+variable z
+whitespace  
+operator =
+whitespace  
+( (
+variable x
+whitespace  
+operator +
+whitespace  
+variable y
+) )
+whitespace  
+operator /
+whitespace  
+integer 3
+whitespace 
+reserved print
+whitespace  
+variable z
+whitespace 
+eof eof
